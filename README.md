@@ -1,0 +1,2 @@
+# Potatosalad
+Modular C++ Raytracer
